@@ -1,0 +1,3 @@
+br.edu.scl.ifsp.sdm.intents.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
